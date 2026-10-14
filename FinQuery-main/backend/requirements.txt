@@ -1,0 +1,9 @@
+Flask
+flask-cors
+mysql-connector-python
+pypdf
+python-docx
+Pillow
+pytesseract
+opencv-python
+requests
